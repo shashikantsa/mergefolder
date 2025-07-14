@@ -1,1 +1,6 @@
+<<<<<<< HEAD
+khh
 lyuty
+=======
+b2 is modified in first
+>>>>>>> fisrt
